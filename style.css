@@ -10,3 +10,15 @@ p{
 .highlight {
     color:green
 }
+.main-content {
+    background-color: yellow;
+}
+.center{
+    text-align: center;
+}
+.href{
+    text-decoration: none;
+}
+.dash{
+    text-decoration: dashed underline;
+}
