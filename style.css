@@ -22,3 +22,18 @@ p{
 .dash{
     text-decoration: dashed underline;
 }
+.bold-text{
+    font-weight: bold;
+}
+.intro{
+    font-weight:300;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+.uppercase {
+    text-transform: uppercase;
+}
